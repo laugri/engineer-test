@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Paris",
+    "code": "PAR"
+  },
+  {
+    "name": "Lyon",
+    "code": "LYO"
+  },
+  {
+    "name": "Marseille",
+    "code": "MRS"
+  },
+  {
+    "name": "Toulouse",
+    "code": "TLS"
+  }
+]
